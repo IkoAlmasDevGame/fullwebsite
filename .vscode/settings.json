@@ -1,0 +1,27 @@
+{
+    "files.autoSave": "onFocusChange",
+    "background.editorBackgrounds": [
+        "https://statik.tempo.co/data/2022/11/22/id_1159125/1159125_720.jpg"
+    ],
+    "background.panelBackgrounds": [
+        "https://statik.tempo.co/data/2022/11/22/id_1159125/1159125_720.jpg"
+    ],
+    "background.sidebarBackgrounds": [
+        "https://statik.tempo.co/data/2022/11/22/id_1159125/1159125_720.jpg"
+    ],
+    "background.windowBackgrounds": [
+        "https://statik.tempo.co/data/2022/11/22/id_1159125/1159125_720.jpg"
+    ],
+    "background.useWindowOptionsForAllBackgrounds": true,
+    "background.customImages": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjnYAYsKyDtCsPf2tpWqrejfe5qTksP6jguG2v4cfIPm7aqK0TiZyk1uN8QminCf3dKSx58L43HxRoYQ6xAcy7LDHHZdo5zHWc_tWv1g5dSMWN7wqftbll4dy3G6h4nqW8x6-gztYsv3MygUn7jhhGM0BBpeoYLmB3cVZpV34bs91USUVkirzwaAg=s1020"
+    ],
+    "background.fullscreen": {
+    
+
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjnYAYsKyDtCsPf2tpWqrejfe5qTksP6jguG2v4cfIPm7aqK0TiZyk1uN8QminCf3dKSx58L43HxRoYQ6xAcy7LDHHZdo5zHWc_tWv1g5dSMWN7wqftbll4dy3G6h4nqW8x6-gztYsv3MygUn7jhhGM0BBpeoYLmB3cVZpV34bs91USUVkirzwaAg=s1020",
+        "opacity": 0.91,
+        "size": "cover",
+        "interval": 0
+    }
+}
